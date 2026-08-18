@@ -4,4 +4,4 @@
 * git commit
 * git push
 * git clone
-* git pull과 fetch
+* git pull 과 fetch
